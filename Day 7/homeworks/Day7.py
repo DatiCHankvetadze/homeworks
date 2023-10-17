@@ -1,12 +1,13 @@
-# ბილეთი ღირს 25 ლარი,
-# მაგრამ ბავშვებისთვის უფასოა,
-# გვყავს 13 ადამიანი, აქედან 10 დიდი და 3 ბავშვი, 
-# გამოთვალეთ ჯამში რამდენი ლარი დასჭირდებათ 
-
-
 tickets = 25
-humans = 13
-big_humans = 10
-kids = 3
+adult = 10
+children = 3 
+sum = 0
 
-print(tickets * big_humans)
+while tickets == 25:
+    sum = adult * tickets
+    print(sum)
+    break
+
+
+    
+

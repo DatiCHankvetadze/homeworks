@@ -38,13 +38,13 @@
 #     i +=2
 # print(sum)
 
-sum = 0
-x = 100
-while x > 0:
-    sum += x
-    x -= 2
+# sum = 0
+# x = 100
+# while x > 0:
+#     sum += x
+#     x -= 2
 
-print(sum)
+# print(sum)
 
 
 
