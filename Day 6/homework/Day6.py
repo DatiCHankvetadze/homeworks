@@ -7,4 +7,6 @@ while i < 30:
         print(i, "this is odd")
     i += 1
 
+    
+
   

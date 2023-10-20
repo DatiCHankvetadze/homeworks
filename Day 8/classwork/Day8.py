@@ -86,10 +86,10 @@
 #     print(nums[4]) #თუ არადა მეოთხე ადგილზე მდგომი
     
 
-x = "hello world"
+# x = "hello world"
 
-if "world" in x:
-    print("Yes")
+# if "world" in x:
+#     print("Yes")
 
     # nums = [1, 2, 3]
     # print(not 4 in nums)
@@ -119,7 +119,9 @@ if "world" in x:
 
 #char - character
 
-my_list = ["nika", "gabrieli"]
+my_list = ["nika", "gabrieli", "dati"]
 
 for element in my_list:
     print(element)
+
+#list - cxrili
