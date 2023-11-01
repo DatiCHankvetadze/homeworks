@@ -82,24 +82,27 @@
 
 
 
-from turtle import * 
+# from turtle import * 
 
-speed(55)
-color("green")
-bgcolor("black")
-x = 200
-while x > 0:
-    left(85)
-    forward(x * 2)
+# speed(55)
+# color("green")
+# bgcolor("black")
+# x = 200
+# while x > 0:
+#     left(85)
+#     forward(x * 2)
 
-    x= x - 1
-
-
+#     x= x - 1
 
 
 
 
-exitonclick()
+
+
+# exitonclick()
+
+
+
 
 
 

@@ -59,9 +59,24 @@
 #keyword to create function
 #square_area - name of function
 #lenght_of_side - parameter of function
-def square_area(lenght_of_side):
-    print(lenght_of_side**2)
-square_area(float(input()))
+# def square_area(lenght_of_side):
+#     print(lenght_of_side**2)
+# square_area(float(input()))
+
+
+# სამკუთხედის_შიგა_კუთხეების_ჯამი = 180
+# x = სამკუთხედის_შიგა_კუთხეების_ჯამი
+
+# if x == 180:
+#     print("ასეთი სამკუთხედი იარსებებს")
+# elif x != 180:
+#     print("ასეთი სამკუთხედი ვერ იარსებებს")
+# else:
+#     print("ყველა ვარიათში სამკუთხედის შიგა კუუთხეების ჯამი 180 უნდა იყოს")
+
+
+# names = ", ".join(list(["dati", "datuna", "datiko"]))
+# print(names)
 
 
 
