@@ -288,6 +288,10 @@ sefsefesfes
 # if myFunction():
 #   print("YES!")
 # else:
-#   print("NO!")
-x = 200
-print(isinstance(x, str))
+# #   print("NO!")
+
+
+# x = 200
+# print(isinstance(x, str))
+
+

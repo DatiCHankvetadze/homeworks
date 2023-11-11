@@ -316,7 +316,7 @@
 #     i+=1
 
 
-for i in range():
-    print(i + "Dati")
+# for i in range():
+#     print(i + "Dati")
 
 
