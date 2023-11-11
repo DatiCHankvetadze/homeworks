@@ -102,8 +102,221 @@
 # exitonclick()
 
 
+# name = "nika"
+# print(name -"ni" + "a")
 
-
-
-
+# list =[42, 55, 67]
+# print(list[2])
    
+
+# m = [[1, 2, 3], [4, 5, 6]]
+#    #0(m[0])        #1(m[1])
+# print(m[1][2])
+
+
+# nums = [5, 8, 2]
+# nums[1] = 42
+
+# print(nums)
+
+# a=10
+# b=20
+
+
+# c = a + b 
+
+# for i in range (10):
+#     print(c)
+
+# for i in range(4):
+#     print("nika")
+
+
+# for i in range(4):
+#     print(i , "nika")
+
+
+
+
+
+
+
+# def bichebtan_misalmeba():
+#     print("hello nika")
+#     print("hello gio")
+#     print("hello luka")
+#     print("hello dati")
+
+# print("dila")
+# bichebtan_misalmeba()
+
+# print("shuadge")
+# bichebtan_misalmeba()
+
+# print("sagamo")
+# bichebtan_misalmeba()
+
+# def draw_squae():
+#     for i in range(4):
+#         forward(100)
+#         left(90)
+
+
+# def misalmeba(saxeli, age):
+#     print("mogesalmebi " + saxeli)
+#     print("sheni asakia " , age)
+
+# #პარამეტრი - ზოგადი სახელი
+# #არგუმენტი - კონკრეტული სახელი მაგ(ნიკა)
+# misalmeba("nika", 50)
+# misalmeba("dati", 30)
+# misalmeba("datuna", 20)
+# misalmeba("datucha", 100)
+# misalmeba("saba", 32)
+
+# from turtle import * 
+
+# def draw_square():
+#     for i in range(4):
+#         forward(100)
+#         left(90)
+
+# def kalmis_wageba(x,y):
+#     penup()
+#     goto(x,y)
+#     pendown() 
+
+# draw_square()
+# kalmis_wageba(0,200)
+
+# draw_square()
+# kalmis_wageba(-200,200)
+
+# #third square
+# draw_square()
+# kalmis_wageba(-200,0)
+
+# #fourth square
+# draw_square()
+
+# exitonclick()
+
+
+# number = list(range(10))
+# print(number)
+
+
+
+# for i in range(2, 16, 4):
+#     print(i)
+
+# from turtle import* 
+
+# speed(5)
+# width(3)
+# color("red")
+
+
+# for i in range(4):
+#  forward(100)
+#  left(90)
+
+
+# penup()
+# goto(0,200)
+# pendown()
+
+# for i in range(4):
+#  forward(100)
+#  left(90)
+
+
+# penup()
+# goto(-200,0)
+# pendown()
+
+# for i in range(4):
+#  forward(100)
+#  left(90)
+
+ 
+# penup()
+# goto(-200,200)
+# pendown()
+
+# for i in range(4):
+#    forward(100)
+#    left(90)
+
+
+# from turtle import* 
+
+# speed(100)
+# width(3)
+# color("red")
+
+# b = 200
+# for i in range(100):
+#     forward(90)
+#     left(80)
+
+# b = b =+ 1
+
+# for i in range(100):
+#     forward(100)
+#     left(70)
+
+# b = b =+ 1
+
+# exitonclick()
+
+
+
+# Clubs = ["barca", "real", "dinamo"]
+# x, y, z = Clubs
+# print(x)
+# print(z)
+# print(y)
+
+# for i in range(5, 20, 5):
+#     print(i)
+
+# name = "nika"
+
+# print(name[2])
+
+# name = "nika"
+
+# print(name + "ni" + "a")
+# i = 2
+
+# while i > 10:
+#     print("this is odd or even")
+# else:
+#     print( "nothing")
+#     i += 1
+
+# i = 2
+
+# while i < 10:
+#     print()
+# else:
+#     print()
+
+#     i += 1
+
+
+# i = 50
+
+# while i > 5:
+#     print(i+2, " this is even")
+# else:
+#     ("nothing") 
+    
+#     i+=1
+
+
+for i in range():
+    print(i + "Dati")
+
+

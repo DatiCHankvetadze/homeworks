@@ -91,9 +91,9 @@
 # if "world" in x:
 #     print("Yes")
 
-    # nums = [1, 2, 3]
-    # print(not 4 in nums)
-    # print(4 not in nums)
+# nums = [1, 2, 3]
+# print(not 4 in nums)
+# print(4 not in nums)
 
 # for loops
 # loop - როდესაც რაღაცას გავუშვებთ სამუდამოდ
@@ -119,9 +119,9 @@
 
 #char - character
 
-my_list = ["nika", "gabrieli", "dati"]
+# my_list = ["nika", "gabrieli", "dati"]
 
-for element in my_list:
-    print(element)
+# for element in my_list:
+#     print(element)
 
-#list - cxrili
+# #list - cxrili

@@ -3,21 +3,21 @@
 # = არის ცვლადისთვის მნიშვნელობის მიმნიჭებელი სიმბოლო
 # "dati" არის ცვლადისთვის მნიშვნელობა
 
-surname = "chankvetadze"
+# surname = "chankvetadze"
 
-#print(name)
-#print(surname)
-#პრინტ ფუნქციას გადაეცემა ეკრანზე გამოსატანი ობიექტი
+# #print(name)
+# #print(surname)
+# #პრინტ ფუნქციას გადაეცემა ეკრანზე გამოსატანი ობიექტი
 
-name = "dati" # ეს არის str (string) ტიპის ცვლადი
-age = "22" # ეს არის int (integer) მთელი რიცხვი
-height = 178.4 #ეს არის float ტიპის ცვლადი ( ათწილადი )
-#boolean (bool) ტიპის ცვლადი
+# name = "dati" # ეს არის str (string) ტიპის ცვლადი
+# age = "22" # ეს არის int (integer) მთელი რიცხვი
+# height = 178.4 #ეს არის float ტიპის ცვლადი ( ათწილადი )
+# #boolean (bool) ტიპის ცვლადი
 
-knows_programming = True  #True ან False
-is_agly = False    #snakecase(უბრალოდ წერის სტილი სტანდარტულად)
+# knows_programming = True  #True ან False
+# is_agly = False    #snakecase(უბრალოდ წერის სტილი სტანდარტულად)
 
-isUgly = False # ჯავასკრიპტული camelcase
+# isUgly = False # ჯავასკრიპტული camelcase
 
 # print (name + " " + surname)
 
