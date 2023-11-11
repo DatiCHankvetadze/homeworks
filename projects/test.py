@@ -281,80 +281,77 @@
 # for i in range(5, 20, 5):
 #     print(i)
 
-# name = "nika"
+# names = ("dati", "nikolozi", "giorgi")
+# list = names
+# print(list)
 
-# print(name[2])
-
-# name = "nika"
-
-# print(name + "ni" + "a")
-# i = 2
-
-# while i > 10:
-#     print("this is odd or even")
-# else:
-#     print( "nothing")
-#     i += 1
-
-# i = 2
-
-# while i < 10:
-#     print()
-# else:
-#     print()
-
-#     i += 1
-
-
-# i = 50
-
-# while i > 5:
-#     print(i+2, " this is even")
-# else:
-#     ("nothing") 
-    
-#     i+=1
-
-
-# for i in range():
-#     print(i + "Dati")
-
-
-
-# my_list = ["nika", "dati", "gio", "elene"]
-
-# for element in my_list:
-#     print(element)
-
-
-# i = 0
-
-# while i < 10:
+# for i in range(10):
 #     print(i)
-#     i += 1
-
-# for i in range(21):
-#     print(i)
-
 
 # for i in "dati":
 #     print(i)
-# from turtle import*
-
-
-# for i in range(4):
-#     forward(100)
-#     left(90)
-
-
-
-
-# exitonclick()
 
 
 # nikas_age = 5
 
-# while nikas_age < 18:
+# if nikas_age < 18:
 #     print("shen pravas ver aigeb")
 # else:
 #     print("aigeb")
+       
+
+# def six_hours():
+#     print("orshabati")
+#     print("samshabati")
+#     print("kvira")
+
+# print("6ze")
+# six_hours()
+
+
+# def for_hours():
+#     print("xutshabati")
+#     print("shabati")
+#     print("otxshabti")
+
+# print("7ze")
+# for_hours()
+
+
+# def gamarjoba(saxeli):
+#     print("gamarjoba " + saxeli )
+
+
+# gamarjoba("gio")
+# gamarjoba("nika")
+# gamarjoba("luka")
+
+# def animal_is(saxeli):
+#     print("animal_is " + saxeli)
+
+# animal_is("lion")
+# animal_is("tiger")
+# animal_is("dog")
+
+# def misalmeba(saxeli, age):
+#     print("mogesalmebi " + saxeli)
+#     print("shen xar " + age + " " + "wlis")
+
+# misalmeba("nika", str(15))
+# misalmeba("dati", str(12))
+# misalmeba("gio", str(26))
+
+# def misalmeba(saxeli, age):
+#     print("mogesalmebi " + saxeli)
+#     print("shen xar", str(age) + " " + "wlis")
+
+# misalmeba("nika", 15)
+# misalmeba("dati", 12)
+# misalmeba("gio", 26)
+     
+
+# numbers = list(range(16))
+# print(numbers)
+
+# nums =list(range(5))
+# print(nums)
