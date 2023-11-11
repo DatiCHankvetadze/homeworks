@@ -7,18 +7,12 @@
 # შექმენით ფუნქცია რომელსაც გადაეცემა სამი სახელი (სამი პარამეტრი) და დაპრინტავს ამ სახელებისგან სიას ( join ან split) გაიხსენეთ
 
 
-# სამკუთხედის_შიგა_კუთხეების_ჯამი = 180
-# x = სამკუთხედის_შიგა_კუთხეების_ჯამი
+def friangles(first, second, third):
+    print("first")
+    print("second")
+    print("third")
 
-# if x == 180:
-#     print("ასეთი სამკუთხედი იარსებებს")
-# elif x != 180:
-#     print("ასეთი სამკუთხედი ვერ იარსებებს")
-# else:
-#     print("ყველა ვარიათში სამკუთხედის შიგა კუუთხეების ჯამი 180 უნდა იყოს")
-
-
-names = ", ".join(list(["dati", "datuna", "datiko"]))
-print(names)
-
-
+if friangles("first " + "second " > "third"):
+    print("es samkutxedi iarsebebs")
+else:
+    ("dadadadw")
