@@ -294,4 +294,9 @@ sefsefesfes
 # x = 200
 # print(isinstance(x, str))
 
+nikas_age = 5
 
+while nikas_age < 18:
+    print("shen pravas ver aigeb")
+else:
+    print("aigeb")

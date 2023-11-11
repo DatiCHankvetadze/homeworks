@@ -320,3 +320,41 @@
 #     print(i + "Dati")
 
 
+
+# my_list = ["nika", "dati", "gio", "elene"]
+
+# for element in my_list:
+#     print(element)
+
+
+# i = 0
+
+# while i < 10:
+#     print(i)
+#     i += 1
+
+# for i in range(21):
+#     print(i)
+
+
+# for i in "dati":
+#     print(i)
+# from turtle import*
+
+
+# for i in range(4):
+#     forward(100)
+#     left(90)
+
+
+
+
+# exitonclick()
+
+
+# nikas_age = 5
+
+# while nikas_age < 18:
+#     print("shen pravas ver aigeb")
+# else:
+#     print("aigeb")
