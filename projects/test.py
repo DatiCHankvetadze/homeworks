@@ -355,3 +355,9 @@
 
 # nums =list(range(5))
 # print(nums)
+
+# x = 10
+# y = 4
+
+# name = x ** 4
+# print(name)
