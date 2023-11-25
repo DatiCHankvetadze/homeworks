@@ -1,0 +1,38 @@
+p.h1{
+    color: tomato;   
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Calibri';
+    font-style: italic;
+    
+    
+    text-decoration-line:underline ;
+    text-decoration-color:greenyellow;
+    text-decoration-style: overline;
+} 
+
+a{
+    
+    color: green;   
+    font-weight:bold;
+    font-size: 'vina sans';
+    
+}
+
+
+/* თუ ერთ სიტყვას შეიცავს ფემილი მაშინ ფრჩხილები არ არის საწიღო მარ ატუ ორი ან მეტი მაშინ საჭიროა */
+
+
+/* h1{                                                          
+     color:green;
+} */
+
+
+/* dashed- dashorebuli ertmanetisgan */
+
+/* dotted - wertilebi */
+
+/* over-line -- zevit */
+
+/* wawy- rkalebi */
+
