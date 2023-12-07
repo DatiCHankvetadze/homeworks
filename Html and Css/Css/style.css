@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:wght@500&display=swap');
+
+h1{
+    text-align: center;
+    color:white;
+    font-size:30px;
+    font-weight: 600;
+    /* font-family: 'Calibri'; */
+    /* font-style: italic; */
+    text-decoration-line:none ;
+    text-decoration-color:rgb(213, 213, 213);
+    text-decoration-style: overline;
+
+}
+
+body{
+    text-align: center;
+    background-color: black;
+}
+
+p{
+
+    color: white;
+    font-size: 16;
+}
+
+a{
+    color:white;
+}
+
+p b{
+
+    color:red
+}
+
+
