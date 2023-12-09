@@ -2,30 +2,30 @@
 
 h1{
     text-align: center;
-    color:white;
+    color:rgb(0, 0, 0);
     font-size:30px;
     font-weight: 600;
     /* font-family: 'Calibri'; */
     /* font-style: italic; */
     text-decoration-line:none ;
-    text-decoration-color:rgb(213, 213, 213);
+    text-decoration-color:rgb(0, 0, 0);
     text-decoration-style: overline;
 
 }
 
 body{
     text-align: center;
-    background-color: black;
+    background-color: rgb(210, 210, 210);
 }
 
 p{
 
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 16;
 }
 
 a{
-    color:white;
+    color:rgb(0, 0, 0);
 }
 
 p b{
