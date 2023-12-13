@@ -18,9 +18,9 @@ body{
     background-color: rgb(210, 210, 210);
 }
 
-p{
+#kvara b{
 
-    color: rgb(0, 0, 0);
+    color: rgb(14, 128, 3);
     font-size: 16;
 }
 
@@ -28,9 +28,13 @@ a{
     color:rgb(0, 0, 0);
 }
 
-p b{
+#messi b{
 
     color:red
 }
 
+#new_year b{
+           color: rgb(0, 0, 0);
+
+}
 
