@@ -1,0 +1,38 @@
+.h1_1{
+
+    color:rgb(0,255,255);
+    background-color:#163020;
+
+}
+
+body{
+
+    text-align:center;
+}
+
+#p_1{
+
+    color:#3559E0;
+    background-color: rgb(0,0,0);
+}
+
+#round{
+
+    background-color: #092635;
+    width:1905px;
+    height: 200px
+    
+    
+}
+
+button{
+
+    color:#3559E0;
+    font-size: 50px
+    
+}
+
+h2{
+
+    color: rgb(255,255,255);
+}
