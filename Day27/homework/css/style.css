@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&family=Inter:wght@500&family=Kanit:ital@1&family=Lexend+Deca:wght@600&family=Montserrat:wght@200&family=Roboto+Condensed&family=Rubik+Doodle+Shadow&family=Rubik+Scribble&display=swap');
+
+
+#a-1{
+     color:rgb(225, 225, 225);
+     position:absolute;
+     left:-320%;
+     font-size: 80px;
+}
+
+
+
+body{
+    background-color: rgb(15, 15, 15)
+}
+
+
+#h4-1{
+     color:rgb(7, 205, 10); 
+    position:absolute;
+    left: 15% 
+}
+
+div{
+
+    font-size:80px;
+}
+
+nav{
+    position: absolute;
+    left: 70%
+    
+    
+}
+
+a{
+    color: white;
+    text-decoration:none;
+    font-size:30px;
+}
+
+.a{
+    transition: 0.2 s;
+}
+
+.a:hover{
+    color:rgb(37, 196, 37)
+}
+
+ul{
+    display: space-around;
+    display:flex;
+    gap:50px
+}
+
+li{
+    color: rgb(15, 15, 15);
+}
+
+#h1-2{
+    position:absolute;
+    left:6.5%;
+    color:white;
+}
+
+h2{
+    font-size:55px
+    
+}
+
+#a-1{
+    transition: 0.2s;
+    font-family:Poppins;
+}
+
+#a-1:hover{
+    color:rgb(37, 196, 37);
+}
+
+form{
+
+    text-align: center;
+}
+
+form{
+    background-color:black;
+}
+
+p{
+    color:white
+    
+}
+
+p{
+    font-size: 15px
+}
