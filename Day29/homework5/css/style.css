@@ -1,0 +1,165 @@
+#div1{
+    background-color: rgb(238, 236, 236);
+    position:absolute;
+    left:2%;
+    
+    
+}
+
+.div-1{
+    width: 400px;
+    margin: auto;
+    height: 260px;
+    border-style: ridge;
+}
+
+#form1{
+    position: absolute;
+    left:5%;
+}
+
+.input1 {
+    width:354px;
+    
+}
+
+select{
+    width:354px;
+    
+}
+
+input{
+    height:20px;
+}
+
+.sel1{
+    height:25px;
+}
+
+
+.div-2{
+    width: 400px;
+    margin: auto;
+    height: 140px;
+    border-style: ridge;
+}
+
+#div2{
+    background-color: rgb(238, 236, 236);
+    position:absolute;
+    left: 25%;
+}
+
+#form2{
+    position: absolute;
+    left:5%;
+}
+
+p{
+    position: absolute;
+    left:2%
+}
+
+#p1{
+    position: absolute;
+    left:25%
+}
+
+.div-3{
+    width: 400px;
+    margin: auto;
+    height: 350px;
+    border-style: ridge;
+}
+
+#div3{
+    background-color: rgb(238, 236, 236);
+    position:absolute;
+    left: 2%;
+}
+
+#form3{
+    position: absolute;
+    left:5%;
+}
+
+.input2{
+    width:354px;
+    height:90px;
+}
+
+.div-4{
+    width: 400px;
+    margin: auto;
+    height: 350px;
+    border-style: ridge;
+}
+
+
+#div4{
+    background-color: rgb(238, 236, 236);
+    position:absolute;
+    left: 25%;
+}
+
+#form4{
+    position: absolute;
+    left:5%;
+}
+
+#p-2{
+    position: absolute;
+    left:25.2%;
+}
+
+#p-3{
+    position: absolute;
+    left:8%;
+}
+
+#p-4{
+    position: absolute;
+    left:8%;
+}
+
+#p-5{
+    position: absolute;
+    left:8%;
+}
+
+#p-6{
+    position: absolute;
+    left:8%;
+}
+
+#but1{
+    position: absolute;
+    left:35%
+    
+    
+}
+
+button{
+    background-color: rgb(34, 34, 204);
+    color:white;
+    width:90px
+    
+    
+    
+}
+
+.but-1{
+    height:30px
+    
+}
+
+#but2{
+    position: absolute;
+    left:41%
+    
+}
+
+.but-2{
+    height:30px
+}
+
