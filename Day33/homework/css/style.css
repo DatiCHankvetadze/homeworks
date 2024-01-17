@@ -1,0 +1,40 @@
+h1{
+    position: absolute;
+    left: 38%;
+    font-size:60px;
+}
+
+#img1{
+    position: absolute;
+    left:3%;
+}
+
+#p1{
+    position: absolute;
+    left:2%
+}
+
+#img2{
+    position: absolute;
+    left: 38%;
+}
+
+#p2{
+    position: absolute;
+    left:36%
+}
+
+#img3{
+    position: absolute;
+    left: 70%;
+}
+
+#p3{
+    position: absolute;
+    left: 69.7%
+}
+
+h4{
+    position: absolute;
+    left:80%
+}
