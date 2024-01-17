@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(227, 224, 219);
+}
+
+h1{
+    position: absolute;
+    left:35.4%
+}
+
+#h1{
+    font-size:50px;
+    color:rgb(4, 60, 4);
+}
+
+ul{
+    display:flex;
+    gap:30%;
+}
+
+#ul{
+    color:rgb(227, 224, 219);
+}
+
+a{
+    color:rgb(4, 60, 4);
+    text-decoration: none;
+}
+
+nav{
+    position: absolute;
+    left: 37.5%
+}
+
+li{
+    font-size:25px
+}
+
+#div1{
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    left:10%
+}
+
+.div1{
+    height: 50px;
+    width:1400px
+}
+
+p{
+    position: absolute;
+    left: 1.5%
+}
+
+#p1{
+    position: absolute;
+    left:10%;
+    font-size:30px;
+}
+
+img{
+    position: absolute;
+    left:37.4%
+}
+
+
+#nav1{
+    position: absolute;
+    left: 10%
+}
+
+#a1{
+    position: absolute;
+    left: 1%
+}
+
+input{
+    position: absolute;
+    left: 38%
+    
+}
+
+.input{
+    height:40px;
+    width: 800px
+    
+}
+
+label{
+    position: absolute;
+    left: 38%
+    
+}
+
+button{
+    position: absolute;
+    left: 70%;
+    font-size: 30px;
+    background-color: white;
+}
+
+#div2{
+    background-color: rgb(15, 73, 4);
+    height: 550px;
+    width:900px 
+}
+
+div{
+    position: absolute;
+    left:36%;
+    border-style: ridge;
+}
+
+.label{
+    color:white
+}
+
