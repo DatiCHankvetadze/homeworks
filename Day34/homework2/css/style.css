@@ -1,0 +1,39 @@
+img{
+    width:100px
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#img{
+    width:400px;
+
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    align-items:left;
+    justify-content: left;
+}
+
+.div{
+    background-color: white;
+    width:1200px;
+    border-radius: 50px;
+    align-items: center;
+}
+
+body{
+    background-color: #759fbf;
+}
+
+.p1{
+    margin-inline-start: 20px;
+    margin: top;
+    margin-top:14%
+    
+}

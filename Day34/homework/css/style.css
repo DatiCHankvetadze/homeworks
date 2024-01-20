@@ -1,0 +1,43 @@
+img{
+    width:140px;
+    height:140px;
+    border-radius:50%;
+    border: 2px solid green;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: black;
+}
+
+nav{
+    width:40%;
+    display: flex;
+    justify-content: center;
+    gap:65px;
+    font-size: 30px;
+
+}
+
+a{
+    text-decoration: none;
+    color:lightgreen;
+    transition: 0.5s;
+}
+
+a:hover{
+    color:lightseagreen;
+}
+
+img{
+    margin:20px;
+    margin-left: 25%;
+    position: relative;
+}
+
+img:hover{
+    opacity: 0.60;
+}
+
