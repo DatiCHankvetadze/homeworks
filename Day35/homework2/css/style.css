@@ -1,0 +1,54 @@
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    
+}
+
+pre{
+    width: 4%;
+    padding-left: 2.5%;
+    font-size: 14px;
+    color: grey;
+} 
+
+button{
+    width:110px;
+    height: 45px;
+    background-color: white;
+    border: 4px solid yellow;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2.5%;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+button:hover{
+    background-color: rgb(231, 231, 231);
+    
+}
+
+button b{
+    font-size: 10px;
+    color: grey;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    color: grey;
+    gap: 130px;
+    font-style: bold;
+    font-size:18px;
+}
+
+

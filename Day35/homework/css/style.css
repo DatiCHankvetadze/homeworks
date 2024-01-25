@@ -28,7 +28,7 @@ ul{
 }
 
 li{
-    color: grey
+    color: grey;
 }
 
 p{
@@ -49,3 +49,13 @@ a{
     justify-content: center;
     align-items: center;
 }
+
+/* @media(max-width: 800px){
+    nav{
+        flex-direction: column;
+    }
+} */
+
+/* overflow: hidden */
+/* cursor: pointer */
+/* font-size: 3rem zomistvis da mag tu gindda gaigo 18px ramdeni remia mashin 18/16 */
