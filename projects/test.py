@@ -379,3 +379,12 @@
 # print(msg)
 # msg = "my name is: {0}". format(family[2])
 # print(msg)
+
+
+# x = "dati"
+# y = "nika"
+
+# print(x + " " + y)
+
+# def name(names)
+
