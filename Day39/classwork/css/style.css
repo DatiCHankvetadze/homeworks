@@ -1,0 +1,19 @@
+h1{
+    text-decoration: line-through black;
+    text-shadow: 3px 1px 8px rgb(0, 0, 0);
+    font-family:  Arial, Helvetica, sans-serif;
+
+}
+
+/* padding: 10px 5px 20px 10px; */
+
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+p{
+    font-family:monospace, Helvetica, Georgia;
+    font-weight: 400;
+}
+
