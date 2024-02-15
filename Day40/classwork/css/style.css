@@ -1,0 +1,95 @@
+/* a{
+    transition: 0.20s;
+} */
+
+/* a:visited{
+    background-color:redback
+} */
+
+/* a:link{
+    
+     background-color: orangered;
+}
+
+
+a:active{
+   
+    background-color: white;
+}
+
+a:link{
+    background-color: rgb(0, 0, 0);
+   
+} */
+
+
+/* table,th,td{
+    border: 3px solid black;
+    font-size:30px;
+    border-collapse: collapse;
+    
+}
+
+td{
+    font-weight:400
+}
+
+td:nth-child(2){
+    color:darkblue;
+    font-weight: bold;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+ul,li{
+   list-style-type: decimal-leading-zero;
+    font-size:70px;
+    list-style-position: inside;
+}
+
+li:nth-child(2){
+    list-style-type: lower-alpha;
+    /* list-style-image: url('rocket.png');;
+} */
+
+
+ul{
+    /* list-style-type: lower-alpha; */
+    /* list-style-type: lower-greek */
+    /* list-style-type: lower-roman; */
+    list-style-type: upper-latin;
+    font-size:40px;
+    list-style-position: inside;
+    /* text-align:center; */
+    
+}
+
+a{
+    color: orangered;
+    
+}
+
+/* a:link{
+    color: yellow;
+} */
+
+/* a:active{
+    background-color: yellow; */
+/* } */
+
+a:visited{
+    background-color: orange;
+}
+
+/* input[ type="text"] */
+
+button{
+    border: 3px solid black;
+    width:200px;
+    height:100px;
+    border-radius: 10px 30px 10px 5px;
+}
+
