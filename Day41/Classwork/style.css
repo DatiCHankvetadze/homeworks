@@ -1,0 +1,138 @@
+/* body {
+    background-color: #fff;
+    color: #333;
+    font:
+      1.2em / 1.5 Helvetica Neue,
+      Helvetica,
+      Arial,
+      sans-serif;
+    padding: 1em;
+    margin: 0;
+  }
+
+  nav ul {
+    max-width: 700px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  nav a:link,
+  nav a:visited {
+    background-color: #4d7298;
+    border: 2px solid #77a6b6;
+    border-radius: 0.5em;
+    color: #fff;
+    padding: 0.5em;
+    display: inline-block;
+    text-decoration: none;
+  }
+
+  ul{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-ar
+  } */
+
+  /* body {
+    background-color: #fff;
+    color: #333;
+    font:
+      1.2em / 1.5 Helvetica Neue,
+      Helvetica,
+      Arial,
+      sans-serif;
+    padding: 1em;
+    margin: 0;
+  }
+
+  ul {
+    max-width: 700px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    background-color: #4d7298;
+    border: 2px solid #77a6b6;
+    border-radius: 0.5em;
+    color: #fff;
+    padding: 0.5em;
+    width:320px;
+    height:250px;
+  }
+
+  ul{
+    display: flex;
+    justify-content:center;
+    flex-direction:row;
+    height:300px;
+  } */
+
+
+  /* body {
+    background-color: #fff;
+    color: #333;
+    font:
+      1.2em / 1.5 Helvetica Neue,
+      Helvetica,
+      Arial,
+      sans-serif;
+    padding: 1em;
+    margin: 0;
+  }
+
+  .parent {
+    border: 2px solid #77a6b6;
+    border-radius: 0.5em;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items:center
+    
+  }
+
+  .child {
+    background-color: #4d7298;
+    color: #fff;
+    padding: 0.5em;
+    width: 150px;
+    height:30px;
+  }
+   */
+   body {
+    background-color: #fff;
+    color: #333;
+    font:
+      1.2em / 1.5 Helvetica Neue,
+      Helvetica,
+      Arial,
+      sans-serif;
+    padding: 1em;
+    margin: 0;
+  }
+
+  ul {
+    width: 450px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display:flex ;
+    flex-wrap: wrap;
+    align-content:stretch;
+  }
+
+  li {
+    background-color: #4d7298;
+    border: 2px solid #77a6b6;
+    border-radius: 0.5em;
+    color: #fff;
+    padding: 0.5em;
+    margin: 0.5em;
+  }
+
+  .li2{
+    width:95px;
+  }
