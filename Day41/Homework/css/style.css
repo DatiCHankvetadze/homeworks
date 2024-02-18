@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 body{
-    background-color: rgb(32, 72, 182);
+    background-color:rgb(31, 35, 130);
     
 }
 
@@ -18,7 +18,12 @@ nav a{
     text-decoration:none ;
     font-family: "Roboto", sans-serif;
     font-weight: 300;
-    font-size: 18px;
+    font-size: 20px;
+    transition: 0.5s;
+}
+
+nav a:hover{
+    color:rgb(123, 104, 238);
 }
 
 .a1{
@@ -49,6 +54,12 @@ header button{
     text-shadow: 1px 1px 1px white;
     font-size:15px;
     font-family: "Roboto", sans-serif;
+    transition: 0.20s;
+}
+
+header button:hover{
+    background-color: rgb(62, 87, 208);
+
 }
 
 .nav{
@@ -60,6 +71,11 @@ header button{
 
 .nav img{
     width:35px;
+    transition: 0.5s;
+}
+
+.nav img:hover{
+    opacity: 0.4;
 }
 
 
@@ -94,7 +110,11 @@ footer button{
     border-radius: 4px;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
-   
+}
+
+footer button:hover{
+    background-color: rgb(123, 104, 238);
+    color:white;
 }
 
 .but1{
@@ -134,3 +154,12 @@ footer{
     margin-top:-1000px;
 }
 
+
+i{
+    color:rgb(255, 255, 255);
+}
+
+svg{
+    width:30px;
+    
+}
