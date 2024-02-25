@@ -1,0 +1,79 @@
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transition: 0.5s;
+    animation-name: change-color;
+    animation-duration: 3s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+    /* background-image: url(/classwork/ball.jpg);
+    background-size: cover;
+    background-position: center; */
+
+    
+}
+
+/* .square:hover{
+    background-color: blue;
+    transform: translateX(300px);
+}
+
+.square:active{
+    transform: skewY(80deg);
+} */
+
+/* translateX(300px) */
+/* scale(2) */
+/* rotateX(180deg) */
+
+@keyframes change-color{
+    /* from{
+        background-color: red;
+        border-radius: 20px;
+        box-shadow: 0px 0px 50px red;
+    }
+    to{
+        transform: translateY(-100px);
+        background-color: blue;
+        box-shadow: 0px 0px 50px blue;
+        border-radius: 50%;
+    } */
+    
+    0%{
+        background-color: red;
+        border-radius: 50%;
+        box-shadow: 0px 0px 10px red;
+    } 
+    50%{
+        transform: translateY(-200px);
+        background-color: blue;
+        box-shadow: 0px 0px 50px blue;
+        border-radius: 50%;
+    }
+    /* 80%{
+        transform: translateY(-200px);
+        background-color: blue;
+        box-shadow: 0px 0px 50px blue;
+        border-radius: 50%;
+    } */
+    100%{
+        background-color: red;
+        border-radius: 50%;
+        box-shadow: 0px 0px 10px red;
+    } 
+}
+
+/* ease in: ანიმაცია მოქმედებებს დასაწყისში სწრაფად აკეთებს და ბოლოში ნელა.
+ease out: ანიმაცია დასაწყისსში ნელა მოქმედებს და ბოლოსკენ სწრაფდება.
+in-out: ანიმაცია დასაწყისსში სწრაფია, შუაში ნელდება და ბოლოსკენ კიდევ სწრაფდება. */

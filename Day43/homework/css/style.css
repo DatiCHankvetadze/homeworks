@@ -55,6 +55,9 @@ header button{
     font-size:15px;
     font-family: "Roboto", sans-serif;
     transition: 0.20s;
+    animation-name: but1;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
 }
 
 header button:hover{
@@ -72,6 +75,9 @@ header button:hover{
 .nav img{
     width:35px;
     transition: 0.5s;
+    animation-name: img;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
 }
 
 .nav img:hover{
@@ -121,17 +127,24 @@ footer button:hover{
     background-color: rgb(255, 255, 255);
     color:rgb(128, 102, 232);
     text-shadow: 1px 1px 1px rgb(123, 101, 215);
-  
+    transition: 0.5s;
+    animation-name: but;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
 }
 
 .but2{
     background-color: rgb(62, 87, 208);
     color:white;
+    transition: 0.5s;
+    animation-name: but;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
 }
 
 footer{
     display: flex;
-    gap:20px;
+    gap:30px;
     padding: 60px 184px;
 }
 
@@ -153,6 +166,11 @@ footer{
     width:780px;
     margin-left:1200px;
     margin-top:-1000px;
+    transition: 0.5s;
+    animation-name: IMG;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+   
 }
 
 
@@ -164,3 +182,67 @@ svg{
     width:30px;
     
 }
+
+@keyframes IMG{
+    0%{
+        transform: scale(1.1);
+    }
+    50%{
+        transform: scale(1.2);
+    }
+    
+    100%{
+        transform: scale(1.1);
+    }
+}
+
+
+@keyframes img{
+   0%{
+    
+    border-radius: 30%;
+    transform: translateX(45px);
+   }
+   50%{
+    box-shadow: 0px 0px 50px rgb(198, 198, 198);
+    border-radius: 4%;
+    transform: translateX(-1px);
+   }
+   100%{
+    
+    border-radius: 30%;
+    transform: translateX(45px);
+   }
+}
+
+@keyframes but{
+   0%{
+      box-shadow: 0px 0px 50px rgb(87, 62, 186);
+      transform: scale(1)
+   }
+   50%{
+    box-shadow: 0px 0px 50px rgb(123, 101, 215);
+    transform: scale(1.1)
+   }
+   100%{
+    box-shadow: 0px 0px 50px rgb(87, 62, 186);
+    transform: scale(1)
+   }
+
+}
+
+@keyframes but1{
+    0%{
+       box-shadow: 0px 0px 50px rgb(87, 62, 186);
+       transform: scale(0.9)
+    }
+    50%{
+     box-shadow: 0px 0px 50px rgb(123, 101, 215);
+     transform: scale(1)
+    }
+    100%{
+     box-shadow: 0px 0px 50px rgb(87, 62, 186);
+     transform: scale(0.9)
+    }
+    
+ }
