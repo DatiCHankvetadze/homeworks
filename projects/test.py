@@ -388,3 +388,15 @@
 
 # def name(names)
 
+# user_name=input("what is your name")
+
+# print("my name is " + user_name)
+
+# user_surname=input("what is your surname")
+
+# print("my surname is " + user_surname)
+
+# user_age=input("how old are you")
+
+# print("i am " + user_age " + " "years old")  
+
