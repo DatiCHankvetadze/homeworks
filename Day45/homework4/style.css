@@ -1,0 +1,497 @@
+body{
+    background-image: url(./1232355-plane.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.752);
+    opacity: 30;
+    width:100%;
+    height:110px;
+}
+
+
+
+header nav{
+    display: flex;
+    gap: 50px;
+    font-size:18px;
+    font-family: sans-serif;
+}
+
+header nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.icons img{
+    border: 3px solid rgb(235, 80, 84);
+    background-color: rgb(235, 80, 84);
+}
+
+header button{
+    width:190px;
+    height: 80px;
+    border-style: none;
+    background-color: rgb(235, 80, 84);
+    font-size:35px;
+    color: white;
+    border-radius: 10px;
+}
+
+
+main{
+    display: flex;
+    align-items:center ;
+    padding-left: 410px;
+    height:1100px;
+}
+
+main .div1{
+    background-color: rgb(235, 80, 84);
+    opacity: 0.9;
+    width:800px;
+    height: 400px;
+    box-shadow: 0px 0px 100px black;
+    border-radius: 6px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    box-sizing: border-box;
+    position: relative;
+    right: 0px;
+
+    
+}
+
+
+.div1 h1{
+    color:white;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 45px;
+    position: relative;
+    
+    
+}
+.div1 p{
+    color: white;
+    font-size:18px;
+    position: relative;
+}
+
+.div1 span{
+    font-size:27px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    text-transform: capitalize;
+    position: relative;
+}
+
+.br {
+    display: block;
+    margin: 0.25em 0; /* Adjust the margin as needed */
+    height: 3px;; /* Adjust the height as needed */
+    content: " "; /* Necessary for some browsers to display the height */
+    position: relative;
+}
+
+.child{
+    width: 700px;
+    height: 100vh;
+    display: flex ;
+    align-items: center;
+    gap:30px;
+    position: relative;
+}
+
+.child button{
+    width: 150px;
+    height: 70px;
+    position: relative;
+    gap:20px;
+    border-radius: 50px;
+    color: white;
+    background-color: #121212;
+    font-size: 16px;
+}
+
+
+
+
+
+.parent{
+    width:100%;
+    height:350px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.child1{
+  flex: 0 0 auto;
+  width:25%;
+  background-color: rgb(17, 17, 17);
+  height:350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.child2{
+    flex: 0 0 auto;
+    width:25%;
+    background-color: rgb(43, 44, 52);
+    height:350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.child3{
+    flex: 0 0 auto;
+    width:25%;
+    background-color: rgb(17, 17, 17);
+    height:350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.child4{
+    flex: 0 0 auto;
+    width:25%;
+    background-color:rgb(43, 44, 52);
+    height:350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+  
+.child1 h1{
+    color:white;
+    font-family: 'roboto' ,sans-serif;
+    
+}
+
+.child1 p{
+    color:#6c757d;
+    font-size: 16px;
+    font-family: 'roboto' ,sans-serif;
+    line-height: 24px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+.child2 h1{
+    color:white;
+    font-family: 'roboto' ,sans-serif;
+    
+}
+
+.child2 p{
+    color:#6c757d;
+    font-size: 16px;
+    font-family: 'roboto' ,sans-serif;
+    line-height: 24px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+.child3 h1{
+    color:white;
+    font-family: 'roboto' ,sans-serif;
+    
+}
+
+.child3 p{
+    color:#6c757d;
+    font-size: 16px;
+    font-family: 'roboto' ,sans-serif;
+    line-height: 24px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+.child4 h1{
+    color:white;
+    font-family: 'roboto' ,sans-serif;
+    
+}
+
+.child4 p{
+    color:#6c757d;
+    font-size: 16px;
+    font-family: 'roboto' ,sans-serif;
+    line-height: 24px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+.divhead{
+    background-color: rgb(32, 32, 32);
+    width:100%;
+    height:1100px;
+    display: flex;
+    justify-content: center;
+    
+
+    
+}
+
+.divhead h3{
+    color:white;
+    font-size:40px;
+    font-family: 'roboto' ,sans-serif;
+}
+
+.grid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parents{
+    padding: 10px;
+    width:2000px;
+    height:850px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(3, auto);
+    gap:20px;
+    margin-top: 200px;
+    
+}
+
+.parents img{
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+.parents img:hover{
+    opacity: 0.4;
+}
+
+.aboutt{
+    width:100%;
+    height:750px;
+    background-color: rgb(14, 14, 14);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.text{
+    display: flex;
+    flex-direction: column;
+    gap:1px;
+    
+}
+
+.text .p1{
+    color: rgb(201, 46, 64);
+    font-family: sans-serif;
+    font-size:18px;
+    font-weight: 700;
+}
+
+.text span{
+    color: white;
+    font-size:55px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.text .p2{
+    color:rgb(175, 175, 175);
+    font-size:20px;
+    font-weight: 100;
+}
+
+.text button{
+    width: 200px;
+    height: 70px;
+    border-radius: 40px;
+    background-color: rgb(235, 80, 84);
+    color:white;
+    font-size:20px;
+}
+
+.fourdiv{
+    width:100%;
+    height:400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+   
+}
+
+.red{
+    width:400px;
+    height:190px;
+    background-color:rgb(235, 80, 84) ;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    gap:5px;
+}
+
+.red h1{
+    color:white;
+    font-size:70px;
+    font-family: sans-serif;
+}
+
+.red b{
+    color:grey;
+    font-size:18px;
+    font-family: sans-serif;
+  
+}
+
+.flex{
+    width:100%;
+    height:700px;
+    background-color: rgb(32, 32, 32);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:80px;
+    flex-direction: column;
+}
+
+.flex img{
+    width:500px;
+    border-radius: 10px;
+}
+
+.img{
+    width:100%;
+    height:400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+   
+}
+
+.flex h1{
+    color: white;
+    font-size:40px;
+    font-family: sans-serif;
+}
+
+.airplane{
+    width:100%;
+    height:1300px;
+    background-color: rgb(32, 32, 32);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+    border: 2 solid black;
+    flex-direction: row;
+}
+
+.black{
+    width:550px;
+    height:700px;
+    background-color: rgb(14, 14, 14);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid grey;
+    flex-direction: column;
+    
+    
+}
+
+
+.black h1{
+    font-size:70px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.black p{
+    font-size:20px;
+    color:grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+@media screen and (max-width: 850px){
+    header nav{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap:5px;
+        
+    }
+
+    header nav a{
+        display: flex;
+        font-size: 10px;
+        gap:2px;
+    }
+    header button{
+        width:100px;
+        height:50px;
+        font-size:15px;
+    }
+
+    main .div1{
+        display: flex;
+        margin-right:300px;
+    }
+
+    .icons img{
+        font-size:10px;
+    }
+
+    main{
+        display: flex;
+        flex-direction: column;
+        gap: 20px
+    }
+
+    .parent{
+        display: flex;
+        flex-direction: column;
+        gap:10px;
+    }
+
+    .divhead{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
