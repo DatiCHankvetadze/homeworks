@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="name1">Dati</p>
+    <p id="name2">giorgi</p>
+
+    <button onclick="swaptext()">switch</button>
+
+    <script>
+    const name1 = document.getElementById("name1");
+    const name2 = document.getElementById("name2");
+
+    function swaptext(){
+        const tempValue = name1.textContent;
+        name1.textContent = name2.textContent;
+        name2.textContent = tempValue;
+    }
+     
+    swaptext()
+    </script>
+</body>
+</html>
