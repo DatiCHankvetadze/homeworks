@@ -10,11 +10,11 @@
 // goinput()
 
 
-let input1 = document.getElementById("t1").value;
+let input1 = document.getElementById("t1");
 
 console.log(input1.value)
 
-let input2 = document.getElementById("t2").value;
+let input2 = document.getElementById("t2");
 
 console.log(input2.value)
 
