@@ -1,6 +1,6 @@
 console.log(typeof (2 + "dati")); 
 console.log(Number("110") + 10); 
-console.log(parseInt("110") + 10); 
+console.log(parseFloat("110") + 10); 
 console.log("15" - 5);
 console.log("10" / 2)
 
